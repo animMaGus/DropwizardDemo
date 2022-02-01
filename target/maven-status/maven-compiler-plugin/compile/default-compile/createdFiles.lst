@@ -1,0 +1,4 @@
+com\flipkart\dropwizard\App.class
+com\flipkart\restController\CustomerController.class
+com\flipkart\restController\HelloController.class
+com\flipkart\bean\Customer.class
